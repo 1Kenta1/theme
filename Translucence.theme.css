@@ -13,12 +13,12 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://cdn.discordapp.com/attachments/467712016182804490/1106594067107815466/eva-jansen-tokio-055-cam-1-00000.jpg);
+	--app-bg: url(https://cdn.discordapp.com/attachments/467712016182804490/1106638323604258956/download_2.jpeg);
 	--app-blur: 8px;
 	--app-margin: 12px;
 	--app-radius: 4px; /*	-	*/
 	
-	--accent-hue: 300;
+	--accent-hue: 60;
 	--accent-saturation: 77.5%;
 	--accent-lightness: 47.1%;
 	--accent-opacity: 1;
