@@ -13,12 +13,12 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://cdn.discordapp.com/attachments/467712016182804490/1102624641996042281/1374079-sky-lantern-anime-girl-4k-pc-wallpaper.jpg);
+	--app-bg: url(https://cdn.discordapp.com/attachments/467712016182804490/1102624115904479303/wallpapersden.com_retro-wave-sunset-and-running-car_1920x1080.jpg);
 	--app-blur: 8px;
 	--app-margin: 12px;
 	--app-radius: 4px; /*	-	*/
 	
-	--accent-hue: 30;
+	--accent-hue: 60;
 	--accent-saturation: 77.5%;
 	--accent-lightness: 47.1%;
 	--accent-opacity: 1;
