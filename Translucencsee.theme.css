@@ -14,11 +14,11 @@
 
 :root {
 	--app-bg: url(https://cdn.discordapp.com/attachments/467712016182804490/1106638323604258956/download_2.jpeg);
-	--app-blur: 8px;
+	--app-blur: 3px;
 	--app-margin: 12px;
 	--app-radius: 4px; /*	-	*/
 	
-	--accent-hue: 60;
+	--accent-hue: 30;
 	--accent-saturation: 77.5%;
 	--accent-lightness: 47.1%;
 	--accent-opacity: 1;
