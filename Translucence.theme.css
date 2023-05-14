@@ -13,12 +13,12 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://cdn.discordapp.com/attachments/467712016182804490/1106638323604258956/download_2.jpeg);
+	--app-bg: url(https://cdn.discordapp.com/attachments/467712016182804490/1107276073282064474/wallpapersden.com_black-cat-looking-out-window-minimal_1920x1080.jpg);
 	--app-blur: 3px;
 	--app-margin: 12px;
 	--app-radius: 4px; /*	-	*/
 	
-	--accent-hue: 30;
+	--accent-hue: 10;
 	--accent-saturation: 77.5%;
 	--accent-lightness: 47.1%;
 	--accent-opacity: 1;
