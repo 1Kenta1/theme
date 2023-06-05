@@ -13,12 +13,12 @@
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
 
 :root {
-	--app-bg: url(https://cdn.discordapp.com/attachments/702665559220813924/1038221371446132756/b470d47b4d5b0244d5ed355d7feeb3d6.gif);
+	--app-bg: url(https://cdn.discordapp.com/attachments/702665559220813924/1038221371035107358/ezgif-2-40df82b117.gif);
 	--app-blur: 0px;
 	--app-margin: 12px;
 	--app-radius: 4px; /*	-	*/
 	
-	--accent-hue: 180;
+	--accent-hue: 40;
 	--accent-saturation: 77.5%;
 	--accent-lightness: 47.1%;
 	--accent-opacity: 1;
